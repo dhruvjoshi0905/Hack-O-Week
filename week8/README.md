@@ -214,15 +214,7 @@ const { bestDegree, scores } = PolynomialRegression.crossValidate(xs, ys, 6, 5);
 
 ---
 
-## 🤝 Contributing
 
-Pull requests are welcome! If you have real sensor data, a better CV strategy, or UI improvements, open an issue or PR.
-
----
-
-## 📄 License
-
-MIT © 2026 — free to use, modify, and distribute.
 
 ---
 
